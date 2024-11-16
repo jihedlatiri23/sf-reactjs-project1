@@ -1,0 +1,55 @@
+.category-design{
+    background-color: #FFEEE8;
+    color:#993D20;
+}
+
+.category-development{
+    background-color: #EBEBFF;
+    color:#342F98;
+}
+
+.category-technology{
+    background-color: #E1F7E3;
+    color:#15711F;
+}
+
+.card-content{
+    padding:15px
+}
+
+.card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.course-category{
+    font-size:0.8rem;
+    font-weight: bold;
+}
+
+.course-price{
+    font-size:0.9rem;
+    font-weight: bold;
+    color:#FF6636
+}
+
+.course-title{
+    font-size: 1rem;
+    color:#333;
+}
+
+.divider{
+    height: 1px;
+    background-color: #ddd;
+    margin:10px 0px;
+}
+
+.course-details{
+    font-size:0.9rem;
+    color:#666
+}
+
+.course-rating, .course-students{
+    font-weight: bold;
+}
